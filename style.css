@@ -1,2 +1,6 @@
 @import "tailwindcss";
 
+.bg-img{
+    background-image: url(./images/mic.png);
+    width: 100%;
+}
